@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.24)  29 FEB 2020 20:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.24)  29 FEB 2020 21:08
 entering extended mode
 **./DocumentacionISO9001.tex
 (DocumentacionISO9001.tex
@@ -127,28 +127,34 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
  [1
 
-{C:/Users/antho/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Overfull \hbox (37.02846pt too wide) in paragraph at lines 143--147
-\OT1/cmr/m/n/10 clientes Mantienen una filosofa de cre-ativi-dad e in-no-vaci
-on Re-visan periodicamente
+{C:/Users/antho/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
+Overfull \hbox (0.33392pt too wide) in paragraph at lines 209--230
+\OT1/cmr/m/n/10 email: ad-mon@schnellsoftware.net web: https://www.schnellsoftw
+are.com
  []
 
-[3] [4] (DocumentacionISO9001.aux) ) 
+[4] [5] [6]
+Overfull \hbox (77.22316pt too wide) in paragraph at lines 253--274
+\OT1/cmr/m/n/10 www.google.com/analytics/ y https://www.google.com/analytics/le
+arn/privacy.html?hl=es
+ []
+
+[7] [8] (DocumentacionISO9001.aux) ) 
 Here is how much of TeX's memory you used:
- 1498 strings out of 481556
- 19486 string characters out of 2913869
- 251760 words of memory out of 3000000
- 16798 multiletter control sequences out of 15000+200000
+ 1499 strings out of 481556
+ 19505 string characters out of 2913869
+ 260760 words of memory out of 3000000
+ 16799 multiletter control sequences out of 15000+200000
  532981 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,5n,27p,543b,177s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,5n,27p,1142b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\antho\AppData\Local\MiKTeX\2.9\f
 onts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/antho/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/antho/AppD
 ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on DocumentacionISO9001.pdf (4 pages, 53610 bytes).
+Output written on DocumentacionISO9001.pdf (8 pages, 67458 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
