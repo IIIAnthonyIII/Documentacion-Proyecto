@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.24)  1 MAR 2020 20:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.24)  1 MAR 2020 21:21
 entering extended mode
 **./DocumentacionISO9001.tex
 (DocumentacionISO9001.tex
@@ -201,77 +201,82 @@ File: GRAF-PRO.png Graphic file (type png)
 Package pdftex.def Info: GRAF-PRO.png  used on input line 308.
 (pdftex.def)             Requested size: 316.18047pt x 314.67485pt.
 [9 <./GRAF-PRO.png>]
-<GRAPHICO PRO 1.JPG, id=34, 372.64218pt x 198.7425pt>
-File: GRAPHICO PRO 1.JPG Graphic file (type jpg)
-<use GRAPHICO PRO 1.JPG>
-Package pdftex.def Info: GRAPHICO PRO 1.JPG  used on input line 344.
-(pdftex.def)             Requested size: 372.64127pt x 198.742pt.
-
-Overfull \hbox (52.6413pt too wide) in paragraph at lines 344--345
-[][] 
+Overfull \hbox (4.80612pt too wide) in paragraph at lines 341--342
+[]\OT1/cmr/m/n/10 El soft-ware debe pro-por-cionar men-sajes in-for-ma-tivos y 
+de er-ror cuando
  []
 
 [10]
+<GRAPHICO PRO 1.JPG, id=37, 372.64218pt x 198.7425pt>
+File: GRAPHICO PRO 1.JPG Graphic file (type jpg)
+<use GRAPHICO PRO 1.JPG>
+Package pdftex.def Info: GRAPHICO PRO 1.JPG  used on input line 367.
+(pdftex.def)             Requested size: 372.64127pt x 198.742pt.
+
+Overfull \hbox (52.6413pt too wide) in paragraph at lines 367--368
+[][] 
+ []
+
 <GRAPHICO PRO 2.JPG, id=38, 355.3275pt x 325.96782pt>
 File: GRAPHICO PRO 2.JPG Graphic file (type jpg)
 <use GRAPHICO PRO 2.JPG>
-Package pdftex.def Info: GRAPHICO PRO 2.JPG  used on input line 350.
+Package pdftex.def Info: GRAPHICO PRO 2.JPG  used on input line 373.
 (pdftex.def)             Requested size: 355.32661pt x 325.96701pt.
 
-Overfull \hbox (35.32664pt too wide) in paragraph at lines 350--351
+Overfull \hbox (35.32664pt too wide) in paragraph at lines 373--374
 [][] 
  []
 
-<GRAPHICO PRO - Trabajo en lista.JPG, id=39, 371.13657pt x 197.98969pt>
+[11 <./GRAPHICO PRO 1.JPG>]
+<GRAPHICO PRO - Trabajo en lista.JPG, id=42, 371.13657pt x 197.98969pt>
 File: GRAPHICO PRO - Trabajo en lista.JPG Graphic file (type jpg)
 <use GRAPHICO PRO - Trabajo en lista.JPG>
 Package pdftex.def Info: GRAPHICO PRO - Trabajo en lista.JPG  used on input lin
-e 356.
+e 379.
 (pdftex.def)             Requested size: 371.13565pt x 197.9892pt.
 
-Overfull \hbox (51.13568pt too wide) in paragraph at lines 356--357
+Overfull \hbox (51.13568pt too wide) in paragraph at lines 379--380
 [][] 
  []
 
-[11 <./GRAPHICO PRO 1.JPG> <./GRAPHICO PRO 2.JPG>]
 <GRAPHICO PRO - Visor de elementos 3D.JPG, id=43, 370.38374pt x 256.70906pt>
 File: GRAPHICO PRO - Visor de elementos 3D.JPG Graphic file (type jpg)
 <use GRAPHICO PRO - Visor de elementos 3D.JPG>
 Package pdftex.def Info: GRAPHICO PRO - Visor de elementos 3D.JPG  used on inpu
-t line 362.
+t line 385.
 (pdftex.def)             Requested size: 370.38283pt x 256.70842pt.
 
-Overfull \hbox (50.38286pt too wide) in paragraph at lines 362--363
+Overfull \hbox (50.38286pt too wide) in paragraph at lines 385--386
 [][] 
  []
 
-<GRAPHICO PRO - Planificacion de produccion.JPG, id=44, 371.88937pt x 206.27063
+[12 <./GRAPHICO PRO 2.JPG> <./GRAPHICO PRO - Trabajo en lista.JPG>]
+<GRAPHICO PRO - Planificacion de produccion.JPG, id=47, 371.88937pt x 206.27063
 pt>
 File: GRAPHICO PRO - Planificacion de produccion.JPG Graphic file (type jpg)
 <use GRAPHICO PRO - Planificacion de produccion.JPG>
 Package pdftex.def Info: GRAPHICO PRO - Planificacion de produccion.JPG  used o
-n input line 368.
+n input line 391.
 (pdftex.def)             Requested size: 371.88846pt x 206.27011pt.
 
-Overfull \hbox (51.88849pt too wide) in paragraph at lines 368--369
+Overfull \hbox (51.88849pt too wide) in paragraph at lines 391--392
 [][] 
  []
 
-[12 <./GRAPHICO PRO - Trabajo en lista.JPG> <./GRAPHICO PRO - Visor de elemento
-s 3D.JPG>]
 <GRAPHICO PRO - Gestion de pedidos.JPG, id=48, 371.13657pt x 203.25937pt>
 File: GRAPHICO PRO - Gestion de pedidos.JPG Graphic file (type jpg)
 <use GRAPHICO PRO - Gestion de pedidos.JPG>
 Package pdftex.def Info: GRAPHICO PRO - Gestion de pedidos.JPG  used on input l
-ine 374.
+ine 397.
 (pdftex.def)             Requested size: 371.13565pt x 203.25887pt.
 
-Overfull \hbox (51.13568pt too wide) in paragraph at lines 374--375
+Overfull \hbox (51.13568pt too wide) in paragraph at lines 397--398
 [][] 
  []
 
-[13 <./GRAPHICO PRO - Planificacion de produccion.JPG> <./GRAPHICO PRO - Gestio
-n de pedidos.JPG>] [14] (DocumentacionISO9001.aux) ) 
+[13 <./GRAPHICO PRO - Visor de elementos 3D.JPG> <./GRAPHICO PRO - Planificacio
+n de produccion.JPG>] [14 <./GRAPHICO PRO - Gestion de pedidos.JPG>] [15]
+(DocumentacionISO9001.aux) ) 
 Here is how much of TeX's memory you used:
  2302 strings out of 481556
  31553 string characters out of 2913869
@@ -280,14 +285,13 @@ Here is how much of TeX's memory you used:
  532981 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,5n,27p,1142b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\antho\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/antho/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
-Users/antho/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r10.pfb>
-Output written on DocumentacionISO9001.pdf (14 pages, 597686 bytes).
+ <C:\Users\antho\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/antho/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/antho/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on DocumentacionISO9001.pdf (15 pages, 599219 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
